@@ -20,8 +20,18 @@ This document contains a basic tutorial on how to create a simple LaTeX file. Th
 
 
 ### Sections ###
+
+– Subsections
+
 ### Body Text: Paragraphs and Content ###
 ### Tables ###
+
+– table and tabular environments
+
+– Symbols: l, c, r, \hline, \\ and |
+
+– How to enter content
 ### Figures ###
+
 ### Mathematical Formulas ###
 ### How to: Acknowledgements ###
