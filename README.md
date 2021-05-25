@@ -26,12 +26,36 @@ This document contains a basic tutorial on how to create a simple LaTeX file. Th
 ### Body Text: Paragraphs and Content ###
 ### Tables ###
 
-– table and tabular environments
+– Table and tabular environments
 
 – Symbols: l, c, r, \hline, \\ and |
 
 – How to enter content
 ### Figures ###
+– \includegraphics[ ] { }
+
+– Titration plot
+
+– Meaningful caption
 
 ### Mathematical Formulas ###
-### How to: Acknowledgements ###
+
+– Equation environments (in-line vs. display)
+
+– Symbols
+
+– Fractions
+
+– Superscripts and Subscripts
+
+ ### How to: Acknowledgements ###
+### How to: References ###
+– thebibliography environment
+
+– \label, \ref, \cite
+
+### Conclusion ### 
+### Acknowledgements ###
+### References ###
+
+
