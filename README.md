@@ -1,5 +1,5 @@
 # LaTeX-Tutorial
-This document contains a basic tutorial on how to create a simple LaTeX file. This tutorial covers the following
+This document contains a basic tutorial on how to create a simple LaTeX file.
 
 # Outline
 ### Introduction ###
