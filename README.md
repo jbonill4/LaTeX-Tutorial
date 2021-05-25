@@ -3,6 +3,8 @@ This document contains a basic tutorial on how to create a simple LaTeX file. Th
 
 # Outline
 ### Introduction ###
+– Why will this tutorial be helpful?
+– Why should I learn LATEX?
 
 ### Creating a .tex file ###
 ### Sections ###
